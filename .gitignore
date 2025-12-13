@@ -1,0 +1,7 @@
+# Ignore core dumps and crash artifacts
+core
+core.*
+*.core
+
+# OS/editor noise
+.DS_Store
