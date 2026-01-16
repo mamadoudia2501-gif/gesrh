@@ -40,7 +40,7 @@ et non des preuves d'audit terrain.
 - 8.1 Planification operationnelle: pas de plan de maitrise par type d'acte.
 - 8.2 Exigences client: revue de contrat/commande non decrite.
 - 8.4 Fournisseurs externes: pas de maitrise des prestataires (IT, sous-traitance).
-- 8.5 Production: controle d'identification, traçabilite et preservation
+- 8.5 Production: controle d'identification, tracabilite et preservation
   des documents non formalise.
 - 8.6 Liberation du service: pas de criteria d'acceptation/final check.
 - 8.7 Maitrise des non conformites: module NC existe, mais pas de
@@ -54,7 +54,7 @@ et non des preuves d'audit terrain.
   d'amelioration documente.
 
 ## Meilleurs indicateurs "non statistiques" (orientation documentaire)
-Ces indicateurs sont binaires ou basés sur une preuve documentaire, pas sur
+Ces indicateurs sont binaires ou bases sur une preuve documentaire, pas sur
 des moyennes. L'objectif est la conformite "OK/NOK" par dossier/acte.
 
 ### Dossiers (pieces et completude)
