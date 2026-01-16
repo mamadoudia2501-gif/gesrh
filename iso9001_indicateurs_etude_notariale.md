@@ -70,6 +70,31 @@ Objectif qualite: developper la competence
 - Cible: 100% sur modules obligatoires
 - Periodicite: semestrielle
 
+## Indicateurs documentaires tres performants
+
+### Dossiers (pieces et completude)
+- % de dossiers complets a l'ouverture (J+0)
+- % de dossiers "zero relance" (aucune piece complementaire)
+- Delai moyen de collecte des pieces manquantes (jours)
+- % de dossiers en retard imputable a des pieces manquantes
+
+### Actes (qualite et rapidite)
+- Taux d'actes "first time right" (sans reprise apres controle interne)
+- Taux d'erreurs formelles par 100 actes
+- Delai redaction -> validation interne (jours)
+- % d'actes en attente de signature > X jours
+
+### Enregistrement / formalites
+- Delai signature -> enregistrement (median, jours)
+- % d'enregistrements dans le delai legal
+- Taux de rejet/retour par l'administration
+- Delai moyen de traitement des retours (jours)
+
+### Archivage et tracabilite
+- % d'actes archives avec indexation correcte
+- Taux de documents illisibles / re-scan
+- Temps moyen de recherche d'un acte (minutes)
+
 ## Conseils de mise en place
 
 - Definir des fiches indicateurs (definition, calcul, source, responsable).
